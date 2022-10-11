@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammedyousef11 (Mohamed Yousef)
-- 👀 I’m interested in java programming and all things about android
-- 💞️ I’m looking to found my own programming company
+- 👀 I’m interested in android programming and all things about it
+- In my starred repositories you can find many libraries related to android development (front end &back end)
 - 📫 Always you can contact me on (almlakhm34@gmail.com)
 
 <!---
