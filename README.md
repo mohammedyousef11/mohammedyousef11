@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @mohammedyousef11 (Mohamed Yousef)
+
 - 👀 I’m interested in android programming and all things about it
-- In my starred repositories you can find many libraries related to android development (front end &back end)
+
+- **⭐ In my starred repositories you can find many libraries related to android development (Java, Kotlin and android UI Design)** 
+
 - 📫 Always you can contact me on (almlakhm34@gmail.com)
 
 <!---
